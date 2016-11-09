@@ -1,2 +1,2 @@
 # django-demo
-Django demo project
+Django demo project edited
