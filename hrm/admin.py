@@ -6,3 +6,5 @@ from .models import AbsenceRequest
 
 admin.site.register(AbsenceType)
 admin.site.register(AbsenceRequest)
+
+# test
